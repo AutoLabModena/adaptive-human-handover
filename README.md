@@ -4,7 +4,7 @@ This repository contains the project page for the paper:
 
 > **Adaptive vs. Static Robot-to-Human Handover: A Study on Orientation and Approach Direction**
 > Federico Biagi, Dario Onfiani, Simone Silenzi, Cristina Iani, Luigi Biagiotti
-> *IEEE RO-MAN 2026*
+> submitted to *IEEE RO-MAN 2026*
 
 ## Overview
 
